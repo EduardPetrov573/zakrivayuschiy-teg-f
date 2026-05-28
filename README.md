@@ -1,1 +1,1 @@
-https://github.com/EduardPetrov573/yandex-praktikum-zakrivayuchiy-teg-fd
+https://github.com/EduardPetrov573/zakrivayuchiy-teg-fd
