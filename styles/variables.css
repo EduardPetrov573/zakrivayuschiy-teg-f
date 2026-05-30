@@ -1,8 +1,8 @@
 :root {
   --font-main: 'Inter', sans-serif;
   --font-accent: 'Press Start 2P', sans-serif;
-  --font-weight-text: 400;
-  --font-weight-title: 700;
+  --font-weight-text: 410;
+  --font-weight-title: 715;
   --label-stroke-color: #fff;
   --accent-color: #000;
   --contour-color: #000;
@@ -11,5 +11,5 @@
     repeating-linear-gradient(to right, #d3d3d3 0, #d3d3d3 2px, transparent 2px, transparent 4px),
     repeating-linear-gradient(to bottom, #d3d3d3 0, #d3d3d3 2px, transparent 2px, transparent 4px),
     linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a);
-  --content-width: min(23.4375rem, 100%);
+  --content-width: min(43.75rem, 100% - 2rem);
 }
